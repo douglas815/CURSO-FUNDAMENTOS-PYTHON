@@ -364,4 +364,4 @@ while intentos < 5:
     intentos += 1
 
 if intentos == 5:
-  print("Demasiados intentos fallidos. Acceso denegado.")
+  print("Demasiados intentos fallidos. Acces denegado.")
